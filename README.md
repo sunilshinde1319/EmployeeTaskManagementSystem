@@ -15,8 +15,3 @@ A comprehensive web application developed using **Spring Boot**, **Spring Securi
 - **Frontend:** Thymeleaf, HTML, CSS  
 - **Database:** MySQL  
 - **Build Tool:** Maven  
-
-## ⚙️ Setup Instructions
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/EmployeeTaskManagementSystem.git
